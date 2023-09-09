@@ -127,3 +127,16 @@ body{
     margin-top: 15px;
     text-align: center;
 }
+
+
+
+
+@media only screen and (max-width:1048px) {
+    .done{
+        width: 90%;
+    }
+
+    .rate{
+        width: 90%;
+    }
+}
